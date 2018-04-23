@@ -22,7 +22,8 @@
 
 
     <fragment
-        android:name="com.wangqiang.pro.eventlite.MainFragment"
+        android:id="@+id/mainf"
+        class="com.wangqiang.pro.eventlite.MainFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

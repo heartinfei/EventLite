@@ -12,6 +12,7 @@
         android:layout_weight="1" />
 
     <fragment
+        android:id="@+id/testf"
         android:name="com.wangqiang.pro.eventlite.TestFragment"
         android:layout_width="match_parent"
         android:layout_height="1dp"
